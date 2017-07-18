@@ -1,0 +1,25 @@
+[{
+  "name": "Up,Up",
+  "moves": [1, 1]
+},{
+  "name": "Up,Down",
+  "moves": [1, -1]
+},{
+  "name": "Up,Up,Up",
+  "moves": [1, 1, 1]
+}, {
+  "name": "Up,Up,Down",
+  "moves": [1, 1, -1]
+}, {
+  "name": "Up,Up,2Down",
+  "moves": [1, 1, -2]
+}, {
+  "name": "Up,Up,Repeat",
+  "moves": [1, 1, 0]
+}, {
+  "name": "Up,Repeat,Up",
+  "moves": [1, 0, 1]
+}, {
+  "name": "Up,Down,2Up",
+  "moves": [1, -1, 2]
+}]

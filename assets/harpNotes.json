@@ -1,0 +1,115 @@
+[{
+  "note": "1",
+  "interval": 1
+}, {
+  "note": "-1´",
+  "interval": 2
+}, {
+  "note": "-1",
+  "interval": 3
+}, {
+  "note": "1#",
+  "interval": 4
+}, {
+  "note": "2",
+  "interval": 5
+}, {
+  "note": "-2´´",
+  "interval": 6
+}, {
+  "note": "-2´",
+  "interval": 7
+}, {
+  "note": "-2",
+  "interval": 8
+}, {
+  "note": "-3´´´",
+  "interval": 9
+}, {
+  "note": "-3´´",
+  "interval": 10
+}, {
+  "note": "-3´",
+  "interval": 11
+}, {
+  "note": "-3",
+  "interval": 12
+}, {
+  "note": "4",
+  "interval": 1
+}, {
+  "note": "-4´",
+  "interval": 2
+}, {
+  "note": "-4",
+  "interval": 3
+}, {
+  "note": "4#",
+  "interval": 4
+}, {
+  "note": "5",
+  "interval": 5
+}, {
+  "note": "-5",
+  "interval": 6
+}, {
+  "note": "5#",
+  "interval": 7
+}, {
+  "note": "6",
+  "interval": 8
+}, {
+  "note": "-6´",
+  "interval": 9
+}, {
+  "note": "-6",
+  "interval": 10
+}, {
+  "note": "6#",
+  "interval": 11
+}, {
+  "note": "-7",
+  "interval": 12
+}, {
+  "note": "7",
+  "interval": 1
+}, {
+  "note": "-7#",
+  "interval": 2
+}, {
+  "note": "-8",
+  "interval": 3
+}, {
+  "note": "8´",
+  "interval": 4
+}, {
+  "note": "8",
+  "interval": 5
+}, {
+  "note": "-9",
+  "interval": 6
+}, {
+  "note": "9´",
+  "interval": 7
+}, {
+  "note": "9",
+  "interval": 8
+}, {
+  "note": "-9#",
+  "interval": 9
+}, {
+  "note": "-10",
+  "interval": 10
+}, {
+  "note": "10´´",
+  "interval": 11
+}, {
+  "note": "10´",
+  "interval": 12
+}, {
+  "note": "10",
+  "interval": 1
+}, {
+  "note": "-10#",
+  "interval": 2
+}]
