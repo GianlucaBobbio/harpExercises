@@ -11,6 +11,27 @@
   "name": "Up,Up,Down",
   "moves": [1, 1, -1]
 }, {
+  "name": "Up,Down,Up",
+  "moves": [1, -1, 1]
+}, {
+  "name": "2Up,Down",
+  "moves": [2, -1]
+}, {
+  "name": "2Up,Down,Up",
+  "moves": [2, -1, 1]
+}, {
+  "name": "Up,2Down,2Up",
+  "moves": [1, -2, 2]
+}, {
+  "name": "2Up,Down,Down",
+  "moves": [2, -1, -1]
+}, {
+  "name": "Up,Down,Down",
+  "moves": [1, -1, -1]
+}, {
+  "name": "Down,2Up,Down",
+  "moves": [-1, 2, -1]
+}, {
   "name": "Up,Up,2Down",
   "moves": [1, 1, -2]
 }, {
