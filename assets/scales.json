@@ -2,70 +2,71 @@
   "name": "Ionian",
   "description": "Mayor",
   "category": "Mode",
-  "steps": "T,T,s,T,T,T,s",
+  "steps": "P1,M2,M3,P4,P5,M6,M7",
   "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
+  "intervals": ["P1", "M2", "M3", "P4", "P5", "M6", "M7"],
   "sequence": [0, 2, 2, 1, 2, 2, 2]
 }, {
   "name": "Dorian",
   "description": "Minor",
   "category": "Mode",
-  "steps": "T,s,T,T,T,s,T",
-  "formula": ["I", "II", "bIII", "IV", "V", "VI", "bVII"],
+  "steps": "P1,M2,m3,P4,P5,M6,m7",
+  "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 2, 1, 2, 2, 2, 1]
 }, {
   "name": "Phrygian",
   "description": "Minor",
   "category": "Mode",
-  "steps": "s,T,T,T,s,T,T",
-  "formula": ["I", "bII", "bIII", "IV", "V", "bVI", "bVII"],
+  "steps": "P1,m2,m3,P4,P5,m6,m7",
+  "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 1, 2, 2, 2, 1, 2]
 }, {
   "name": "Lydian",
   "description": "Mayor",
   "category": "Mode",
-  "steps": "T,T,T,s,T,T,s",
-  "formula": ["I", "II", "III", "#IV", "V", "VI", "VII"],
+  "steps": "P1,M2,M3,a4,P5,M6,M7",
+  "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 2, 2, 2, 1, 2, 2]
 }, {
   "name": "Mixolydian",
   "description": "Mayor",
   "category": "Mode",
-  "steps": "T,T,s,T,T,s,T",
-  "formula": ["I", "II", "III", "IV", "V", "VI", "bVII"],
+  "steps": "P1,M2,M3,P4,P5,M6,m7",
+  "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 2, 2, 1, 2, 2, 1]
 }, {
   "name": "Aeolian",
   "description": "Minor",
   "category": "Mode",
-  "steps": "T,s,T,T,s,T,T",
-  "formula": ["I", "II", "bIII", "IV", "V", "bVI", "bVII"],
+  "steps": "P1,M2,m3,P4,P5,m6,m7",
+  "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 2, 1, 2, 2, 1, 2]
 }, {
   "name": "Locrian",
   "description": "Minor",
   "category": "Mode",
-  "steps": "s,T,T,s,T,T,T",
-  "formula": ["I", "bII", "bIII", "IV", "bV", "bVI", "bVII"],
+  "steps": "P1,m2,m3,P4,d5,m6,m7",
+  "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 1, 2, 2, 1, 2, 2]
 }, {
   "name": "Blues Scale",
   "description": "Mayor",
   "category": "Common",
-  "steps": "m3,T,s,s,m3,T",
-  "formula": ["I", "bIII", "IV", "bV", "V", "VI"],
+  "steps": "P1,m3,P4,d5,P5,M6",
+  "formula": ["I", "III", "IV", "bV", "V", "VI"],
   "sequence": [0, 3, 2, 1, 1, 3]
 }, {
   "name": "Mayor Pentatonic",
   "description": "Mayor",
   "category": "Common",
-  "steps": "T,T,m3,T,m3",
+  "steps": "P1,M2,M3,P5,M6",
   "formula": ["I", "II", "III", "V", "VI"],
   "sequence": [0, 2, 2, 3, 2]
 }, {
   "name": "Minor Pentatonic",
   "description": "Minor",
   "category": "Common",
-  "steps": "m3,T,M3,s,T",
-  "formula": ["I", "bIII", "IV", "V", "bVII"],
+  "steps": "P1,m3,P4,m6,M6",
+  "formula": ["I", "III", "IV", "V", "VI"],
   "sequence": [0, 3, 2, 4, 1]
 }]
