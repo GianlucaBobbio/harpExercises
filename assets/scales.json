@@ -66,7 +66,7 @@
   "name": "Minor Pentatonic",
   "description": "Minor",
   "category": "Common",
-  "steps": "P1,m3,P4,m6,M6",
+  "steps": "P1,m3,P4,P5,m7",
   "formula": ["I", "III", "IV", "V", "VI"],
   "sequence": [0, 3, 2, 2, 3]
 }]
