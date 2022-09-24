@@ -73,7 +73,7 @@
   "name": "Minor",
   "description": "Minor",
   "category": "Common",
-  "steps": "P1, M2, m3, P4, P5, m6, m7",
+  "steps": "P1,M2,m3,P4,P5,m6,m7",
   "formula": ["I", "II", "III", "IV", "V", "VI", "VII"],
   "sequence": [0, 2, 1, 2, 2, 1, 2]
 }]
